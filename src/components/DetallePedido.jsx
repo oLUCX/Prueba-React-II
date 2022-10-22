@@ -33,7 +33,7 @@ const DetallePedido = () => {
                     Volver a Home
                 </button> 
             </Link>
-                <button className="btn btn-success" style={{ margin: '15px 0px 0px 0px' }}>
+                <button className="btn btn-success" style={{ margin: '15px 0px 0px 15px' }}>
                     Pagar
                 </button> 
         </Container>
