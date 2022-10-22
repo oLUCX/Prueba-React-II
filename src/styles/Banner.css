@@ -1,0 +1,22 @@
+.containerBanner{
+    height: 30%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86)), url(../imgs/pizzabanner.jpg);
+    background-size: inherit;
+    background-position: center;
+}
+
+.containerTitulo{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    color: white;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.hr-banner{
+    border: 0 ;
+    border-top: 2px solid rgb(255, 255, 255) ;
+    width: 75% ;
+}

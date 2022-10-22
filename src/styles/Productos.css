@@ -1,0 +1,23 @@
+.hr-cards{
+    border: 0;
+    border-top: 2px solid rgb(0, 0, 0);
+    width: 100%;
+}
+.containerBtnsCard{
+    gap: 10%;
+}
+
+ul{
+    list-style: none;
+    padding: 0px 0px 0px 15px;
+}
+
+.containerProductos{
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.priceCard{
+    font-weight: 700;
+    font-size: 2em;
+}

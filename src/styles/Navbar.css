@@ -1,0 +1,23 @@
+.containerNav{
+    display: flex;
+    padding: 0px 0px 0px 0px;
+    color: white;
+}
+
+.active{
+    color: red;
+    text-decoration: none;
+}
+
+.normal{
+    color: white;
+    text-decoration: none;
+}
+
+.carritoCompras{
+    width: 1.3em;
+}
+
+.pizzaLogo{
+    width: 2em;
+}
