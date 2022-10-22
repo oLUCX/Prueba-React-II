@@ -31,9 +31,11 @@ const DetallePedido = () => {
             <Link to="/">
                 <button className="btn btn-info" style={{ margin: '15px 0px 0px 0px' }}>
                     Volver a Home
-                </button>
-
+                </button> 
             </Link>
+                <button className="btn btn-success" style={{ margin: '15px 0px 0px 0px' }}>
+                    Pagar
+                </button> 
         </Container>
     )
 }
