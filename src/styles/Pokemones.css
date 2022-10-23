@@ -1,9 +1,0 @@
-.pt-5{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-.btnBuscar{
-    width: 10em;
-}

@@ -1,6 +1,6 @@
 .containerBanner{
     height: 30%;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86)), url(../imgs/pizzabanner.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../imgs/pizzabanner.jpg);
     background-size: inherit;
     background-position: center;
 }
